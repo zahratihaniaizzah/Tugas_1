@@ -1,5 +1,3 @@
-//Data Produk
-
 const produk = [
   "Laptop",
   "Mouse",

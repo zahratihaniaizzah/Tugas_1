@@ -1,4 +1,3 @@
-//Kehadiran Siswa
 const hadir = [
 true,
 false,

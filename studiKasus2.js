@@ -1,4 +1,3 @@
-//Nilai Ujian
 const nilai = [90, 75, 60, 45, 88];
 
 let lulus = 0;

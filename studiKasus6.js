@@ -1,4 +1,3 @@
-//Daftar Umur Pengunjung
 const umur = [8, 13, 17, 20, 25, 11];
 let bolehMasuk = 0;
 let  tidakBoleh = 0;

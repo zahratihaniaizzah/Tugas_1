@@ -1,6 +1,3 @@
-//Kasir Mini Market
-//Sebuah minimarket ingin membuat program sederhana untuk menghitung total belanja pelanggan.
-
 const nama = "Budi";
 const umur = 20;
 

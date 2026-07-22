@@ -1,5 +1,3 @@
-//Daftar Harga Menu Cafe
-
 const menu = [
   10000,
   25000,

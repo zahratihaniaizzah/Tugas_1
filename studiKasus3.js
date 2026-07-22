@@ -1,4 +1,3 @@
-//Daftar Hero Mobile Legends
 const hero = [
 "Layla",
 "Ling",

@@ -1,4 +1,3 @@
-//Sistem Penilaian Game
 const skor = [100, 450, 800, 150, 900];
 
 for (let i = 0; i < skor.length; i++) {
